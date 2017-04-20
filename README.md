@@ -1,0 +1,2 @@
+# CamelHibernate
+HibernatePlainCRUDwith camel
